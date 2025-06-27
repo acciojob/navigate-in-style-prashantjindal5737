@@ -6,10 +6,10 @@
 }
 .navi{
 	display:inline;
-	text-decoration:none;
+	/* text-decoration:none; */
 	color:black;
 	margin-right:1rem;
 	font-weight:700;
-	list-style:absolute;
+	list-style: none
 	
 }
