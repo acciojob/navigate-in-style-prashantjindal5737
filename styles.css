@@ -10,9 +10,9 @@
 .navi{
 	display:inline;
 	/* text-decoration:none; */
-	color:black;
+	/* color:black; */
 	margin-right:1rem;
-	font-weight:700;
+	/* font-weight:700; */
 	list-style: none
 	
 }
